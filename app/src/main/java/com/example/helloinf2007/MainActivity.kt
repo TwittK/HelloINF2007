@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
                 Surface(modifier = Modifier.fillMaxSize()) {
                     Column {
                         Greeting("INF2007")
-                        From("Tris")
+                        From("TwittyK")
                     }
                 }
             }
